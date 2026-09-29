@@ -8,3 +8,4 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/firehol_level4.netset
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
+https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
